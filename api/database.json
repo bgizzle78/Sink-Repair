@@ -1,0 +1,38 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Merle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  
+  "completions": [],
+
+  "requests": [
+    {
+      "id": 1,
+      "description": "Replace bathroom sink",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Leaky tub",
+      "address": "123 4th St",
+      "budget": "100",
+      "neededBy": "2022-08-10",
+      "id": 2
+    },
+    {
+      "description": "Clogged drain",
+      "address": "987 Main St",
+      "budget": "250",
+      "neededBy": "2022-08-20",
+      "id": 3
+    }
+  ]
+}

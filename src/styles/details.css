@@ -1,0 +1,17 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 10px;
+}
+
+.button {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    color: black;
+    background-color: darkgray;
+}
+
+.label {
+    font-size: 18px;
+}
